@@ -6,5 +6,5 @@ This is a sentiment analysis method based on K-BERT and residual cyclic units. F
 
 Because the code needs to be organized and privacy protected, and there are other researches in the sequence, it will be disclosed at an appropriate time.
 
-Before running the code, make sure that the CUDA tookit, CUDNN, nvcc-V, and graphics card drivers used are the same. You can use sru_environmet_test.py to test whether the SRU environment is normal;
+Before running the code, make sure that the CUDA tookit, CUDNN, nvcc-V, and graphics card drivers used are the same. You can use sru_environment_test.py to test whether the SRU environment is normal;
 
